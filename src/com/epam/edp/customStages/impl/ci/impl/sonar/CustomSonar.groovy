@@ -10,4 +10,3 @@ class CustomSonar {
         script.sh "echo 'Your custom logic of the stage'"
     }
 }
-return CustomSonar
